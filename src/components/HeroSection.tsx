@@ -55,9 +55,6 @@ const HeroSection = () => {
           <p className="text-lg md:text-xl text-primary-foreground/70 font-medium mb-2">
             Aspiring Software Engineer
           </p>
-          <p className="text-sm md:text-base text-primary-foreground/50 max-w-xl mx-auto mb-8">
-            I build clean, functional web apps with React & TypeScript
-          </p>
 
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Button
