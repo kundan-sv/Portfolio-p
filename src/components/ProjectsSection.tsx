@@ -12,7 +12,7 @@ const projects = [
     live: "https://smart-finance-tracker-orpin.vercel.app/",
   },
   {
-    title: "DevLinks Portfolio",
+    title: "Portfolio",
     desc: "Personal developer portfolio with animated UI, project showcases, and fully responsive design.",
     tech: ["React", "TypeScript", "Tailwind CSS", "Framer Motion"],
     github: "https://github.com/kundan-sv/Portfolio-p",
