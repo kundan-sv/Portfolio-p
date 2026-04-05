@@ -70,7 +70,7 @@ const HeroSection = () => {
               asChild
               variant="outline"
               size="lg"
-              className="border-primary-foreground/30 text-primary-foreground hover:bg-primary-foreground/10 rounded-full px-8"
+              className="border-accent/50 text-accent hover:bg-accent/10 rounded-full px-8"
             >
               <a href="/Kundan_Sri_Vyshnavi_Resume.pdf" download>
                 Download Resume <Download className="ml-2 h-4 w-4" />
