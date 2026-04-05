@@ -29,9 +29,7 @@ const Navbar = () => {
       }`}
     >
       <div className="container mx-auto flex items-center justify-between px-6 py-4">
-        <a href="#" className="text-xl font-bold text-primary-foreground">
-          Vyshnavi
-        </a>
+        <div />
 
         {/* Desktop */}
         <div className="hidden md:flex items-center gap-8">
