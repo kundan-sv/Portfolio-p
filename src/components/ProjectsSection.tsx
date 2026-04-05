@@ -15,7 +15,7 @@ const projects = [
     title: "DevLinks Portfolio",
     desc: "Personal developer portfolio with animated UI, project showcases, and fully responsive design.",
     tech: ["React", "TypeScript", "Tailwind CSS", "Framer Motion"],
-    github: "#",
+    github: "https://github.com/kundan-sv/Portfolio-p",
     live: "#",
   },
 ];
