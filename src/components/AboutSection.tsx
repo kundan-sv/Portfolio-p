@@ -5,8 +5,8 @@ import { GraduationCap, Award, BookOpen } from "lucide-react";
 
 const stats = [
   { icon: GraduationCap, label: "B.Tech CGPA", value: "8.52", sub: "Amrita Vishwa Vidyapeetham" },
-  { icon: Award, label: "Class XII", value: "97.9%", sub: "Board Examination" },
-  { icon: BookOpen, label: "Class X", value: "95.67%", sub: "Board Examination" },
+  { icon: Award, label: "Class XII", value: "97.9%", sub: "Sasi College" },
+  { icon: BookOpen, label: "Class X", value: "95.67%", sub: "Sasi College" },
 ];
 
 const AboutSection = () => {
