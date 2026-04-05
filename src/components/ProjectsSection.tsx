@@ -13,7 +13,7 @@ const projects = [
   },
   {
     title: "Portfolio",
-    desc: "Personal developer portfolio with animated UI, project showcases, and fully responsive design.",
+    desc: "Designed and developed a responsive portfolio with modular React components and smooth user experience.",
     tech: ["React", "TypeScript", "Tailwind CSS", "Framer Motion"],
     github: "https://github.com/kundan-sv/Portfolio-p",
     live: "#",
