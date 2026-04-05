@@ -16,7 +16,7 @@ const projects = [
     desc: "Designed and developed a responsive portfolio with modular React components and smooth user experience.",
     tech: ["React", "TypeScript", "Tailwind CSS", "Framer Motion"],
     github: "https://github.com/kundan-sv/Portfolio-p",
-    live: "#",
+    live: "https://portfolio-p-zeta.vercel.app/",
   },
 ];
 
