@@ -75,7 +75,7 @@ const HeroSection = () => {
               size="lg"
               className="border-primary-foreground/30 text-primary-foreground hover:bg-primary-foreground/10 rounded-full px-8"
             >
-              <a href="#">
+              <a href="/Kundan_Sri_Vyshnavi_Resume.pdf" download>
                 Download Resume <Download className="ml-2 h-4 w-4" />
               </a>
             </Button>
