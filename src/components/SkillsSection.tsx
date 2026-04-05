@@ -3,7 +3,7 @@ import { useRef } from "react";
 
 const skillGroups = [
   { title: "Languages", skills: ["Python", "Java"] },
-  { title: "Web & Frontend", skills: ["HTML", "CSS", "JavaScript", "React", "TypeScript", "Tailwind CSS"] },
+  { title: "Web & Frontend", skills: ["HTML", "CSS", "JavaScript", "React", "TypeScript"] },
   { title: "CS Fundamentals", skills: ["DSA", "DBMS", "Operating Systems"] },
 ];
 
