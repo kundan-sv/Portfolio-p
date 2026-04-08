@@ -4,9 +4,9 @@ import { useRef } from "react";
 import { GraduationCap, Award, BookOpen } from "lucide-react";
 
 const stats = [
-  { icon: GraduationCap, label: "B.Tech CGPA", value: "8.52", sub: "Amrita Vishwa Vidyapeetham (2024–2028)" },
-  { icon: Award, label: "Class XII", value: "97.9%", sub: "Sasi College (2022–2024)" },
-  { icon: BookOpen, label: "Class X", value: "95.67%", sub: "Sasi College (2021–2022)" },
+  { icon: GraduationCap, label: "B.Tech CGPA", value: "8.52", sub: "Amrita Vishwa Vidyapeetham", year: "(2024–2028)" },
+  { icon: Award, label: "Class XII", value: "97.9%", sub: "Sasi College", year: "(2022–2024)" },
+  { icon: BookOpen, label: "Class X", value: "95.67%", sub: "Sasi College", year: "(2021–2022)" },
 ];
 
 const AboutSection = () => {
@@ -43,6 +43,7 @@ const AboutSection = () => {
               <p className="text-3xl font-bold text-foreground mb-1">{s.value}</p>
               <p className="text-sm font-medium text-foreground/80">{s.label}</p>
               <p className="text-xs text-muted-foreground mt-1">{s.sub}</p>
+              <p className="text-xs text-muted-foreground">{s.year}</p>
             </motion.div>
           ))}
         </div>
