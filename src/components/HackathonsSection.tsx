@@ -44,7 +44,7 @@ const HackathonsSection = () => {
             >
               <h.icon className="h-8 w-8 text-accent mb-4" />
               <h3 className="text-xl font-bold text-primary-foreground mb-1">{h.title}</h3>
-              <p className="text-xs font-medium text-accent mb-3 uppercase tracking-wider">{h.event}</p>
+              <p className="text-xs font-medium text-primary-foreground/80 mb-3 uppercase tracking-wider">{h.event}</p>
               <p className="text-sm text-primary-foreground/60 leading-relaxed">{h.desc}</p>
             </motion.div>
           ))}
