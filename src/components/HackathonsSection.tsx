@@ -12,7 +12,7 @@ const hackathons = [
   {
     icon: Trophy,
     title: "TrustLens",
-    event: "Unstop Hackathon",
+    event: "Hack and Break, IIT Bombay",
     desc: "AI-powered claim verification system with trust scoring for identifying misinformation.",
   },
 ];
