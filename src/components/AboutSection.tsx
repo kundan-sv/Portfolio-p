@@ -4,9 +4,9 @@ import { useRef } from "react";
 import { GraduationCap, Award, BookOpen } from "lucide-react";
 
 const stats = [
-  { icon: GraduationCap, label: "B.Tech CGPA", value: "8.52", sub: "Amrita Vishwa Vidyapeetham" },
-  { icon: Award, label: "Class XII", value: "97.9%", sub: "Sasi College" },
-  { icon: BookOpen, label: "Class X", value: "95.67%", sub: "Sasi College" },
+  { icon: GraduationCap, label: "B.Tech CGPA", value: "8.52", sub: "Amrita Vishwa Vidyapeetham (2024–2028)" },
+  { icon: Award, label: "Class XII", value: "97.9%", sub: "Sasi College (2022–2024)" },
+  { icon: BookOpen, label: "Class X", value: "95.67%", sub: "Sasi College (2021–2022)" },
 ];
 
 const AboutSection = () => {
