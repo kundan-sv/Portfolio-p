@@ -43,6 +43,7 @@ const AboutSection = () => {
               <p className="text-3xl font-bold text-foreground mb-1">{s.value}</p>
               <p className="text-sm font-medium text-foreground/80">{s.label}</p>
               <p className="text-xs text-muted-foreground mt-1">{s.sub}</p>
+              <p className="text-xs text-muted-foreground">{s.year}</p>
             </motion.div>
           ))}
         </div>
