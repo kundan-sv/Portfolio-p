@@ -2,7 +2,7 @@ import { motion, useInView } from "framer-motion";
 import { useRef } from "react";
 
 const skillGroups = [
-  { title: "Languages", skills: ["Python", "Java"] },
+  { title: "Languages", skills: ["C", "Python", "Java"] },
   { title: "Web & Frontend", skills: ["HTML", "CSS", "JavaScript", "React", "TypeScript"] },
   { title: "CS Fundamentals", skills: ["DSA", "DBMS", "Operating Systems"] },
 ];
