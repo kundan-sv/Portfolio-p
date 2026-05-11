@@ -5,6 +5,7 @@ const skillGroups = [
   { title: "Languages", skills: ["Python", "Java", "C"] },
   { title: "Web & Frontend", skills: ["HTML", "CSS", "JavaScript", "React", "TypeScript"] },
   { title: "CS Fundamentals", skills: ["DSA", "DBMS", "Operating Systems"] },
+  { title: "Libraries", skills: ["Pandas", "Numpy", "Matplotlib"] },
 ];
 
 const SkillsSection = () => {
