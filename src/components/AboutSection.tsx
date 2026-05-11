@@ -25,8 +25,7 @@ const AboutSection = () => {
             About <span className="text-accent">Me</span>
           </h2>
           <p className="text-muted-foreground text-center max-w-2xl mx-auto mb-12 leading-relaxed">
-            I'm a second-year CSE student passionate about frontend development and building real-world
-            applications. I love turning ideas into clean, deployed products.
+            I am seeking a challenging and dynamic role within an innovative organization that allows me to utilize my skills and qualifications to make a meaningful impact on the company's success. I am excited to join a forward thinking team that values creativity, continuous improvement, and offers opportunities for both personal and professional growth.
           </p>
         </motion.div>
 
