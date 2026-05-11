@@ -6,7 +6,7 @@ import { GraduationCap, Award, BookOpen } from "lucide-react";
 const stats = [
   { icon: GraduationCap, label: "B.Tech CGPA", value: "8.72", sub: "Amrita Vishwa Vidyapeetham", year: "(2024–2028)" },
   { icon: Award, label: "Class XII", value: "97.9%", sub: "SASI Junior College", year: "(2022–2024)" },
-  { icon: BookOpen, label: "Class X", value: "95.67%", sub: "Sasi College", year: "(2021–2022)" },
+  { icon: BookOpen, label: "Class X", value: "95.67%", sub: "SASI English Medium School", year: "(2021–2022)" },
 ];
 
 const AboutSection = () => {
